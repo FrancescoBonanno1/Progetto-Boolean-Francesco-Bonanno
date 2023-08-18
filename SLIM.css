@@ -1,0 +1,73 @@
+.Container{
+    width: 1200px;
+    margin: auto;
+    margin-top: 25px;
+    background-color: rgba(3, 3, 3, 0.37);
+    border-radius: 10px;
+    padding-bottom: 75px;
+}
+#formattazione{
+    width: 230px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 100px;
+    
+}
+
+#Motto{
+    color: rgb(5, 243, 5);
+    font-family: system-ui;
+    width: 500px;
+    margin: auto;
+    padding: 8px;
+
+}
+nav{
+    background-color: rgb(5, 243, 5);
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+}
+nav > div{
+   padding-left: 350px;
+   
+
+}
+main{
+    font-family: system-ui;
+    width: 1000px;
+    color: white;
+}
+    
+#medium{
+    background-color: rgba(255, 136, 0, 0.829);
+    border-color:rgba(255, 136, 0, 0.829) ;
+    padding: 10px;
+    border-radius: 5px;
+    width: 285px;
+    display: inline-block;
+
+}
+#good{
+    background-color: rgba(38, 187, 18, 0.829);
+    border-color:rgba(38, 187, 18, 0.829) ;
+    padding: 10px;
+    border-radius: 5px;
+    width: 480px;
+    display: inline-block;
+}
+#bad{
+    background-color: rgba(241, 52, 5, 0.829);
+    border-color:rgba(241, 52, 5, 0.829) ;
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+    display: inline-block;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+    
+
